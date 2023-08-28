@@ -4,5 +4,7 @@ class Hello(){
         System.out.println("Hello Moon");
         System.out.println("Hello Moon");
         System.out.println("Hello Moon");
+        System.out.println("Hello");
+        
     }
 }
